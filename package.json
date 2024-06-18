@@ -20,8 +20,10 @@
     "imagemin": "^8.0.1",
     "imagemin-webp": "^7.0.0",
     "jsonwebtoken": "^8.5.1",
+    "mocha": "^10.4.0",
     "mongoose": "^6.6.0",
-    "nanoid": "^4.0.0"
+    "nanoid": "^4.0.0",
+    "selenium-webdriver": "^4.21.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
